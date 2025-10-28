@@ -63,12 +63,6 @@ void loop() {
 ```
 ---
 
-#### Esquema de Ligações
-
-![Esquema do circuito](imagens/esquema_circuito.png)
-
----
-
 ### Explicação com tutorial
 ### Passo 1
 
@@ -83,6 +77,8 @@ Ao total serão 6 jumpers macho-fêmea a serem utilizados.
  <sub>Fonte autoral</sub>
 </div>
 
+---
+
 ### Passo 2
 
 - Conecte ânodo (perna longa) do led que está conectado ao jumper macho-fêmea, à linha do fio que vai à linha do resistor que vai ao GND da protoboard e o cátodo à linha do resistor que vai aos pinos referentes à posição de cada um dos leds.
@@ -92,6 +88,8 @@ Ao total serão 6 jumpers macho-fêmea a serem utilizados.
  <img src="assets/imagem2.png" alt="Título"><br>
  <sub>Fonte autoral</sub>
 </div>
+
+---
 
 ### Passo 3
 
@@ -117,6 +115,8 @@ Ao total serão 6 jumpers macho-fêmea a serem utilizados.
 - Os leds deverão acender nos respectivos intervalos de tempo: 
 
 Led vermelho: acender por 6 segundos e depois apagar, logo depois o led amarelo acende por 2 segundos e apaga e, por fim, o led verde acende por 4 segundos e apaga. Assim, o ciclo se repete.
+
+---
 
 ## Componentes Utilizados
 | Componente | Quantidade | Especificação | Função |
