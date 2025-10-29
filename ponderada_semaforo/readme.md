@@ -5,3 +5,7 @@ Este projeto consiste na montagem e programação de um semáforo eletrônico ut
 ## Objetivo
 
 O objetivo é simular o funcionamento real de um semáforo com tempos definidos para cada luz.
+
+## Avaliadores
+
+Atividade corrigida por Nicole Zanin
