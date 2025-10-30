@@ -97,7 +97,7 @@ Ao total serão 6 jumpers macho-fêmea a serem utilizados.
 
 ### Passo 3
 
-- Ligue os fios que estão na protoboard e conectam-se com os jumpers macho-fêmea que esão vindo dos leds aos pinos digitais, respectivamente:
+- Ligue os fios que estão na protoboard e conectam-se com os jumpers macho-fêmea que estão vindo dos leds aos pinos digitais, respectivamente:
 
 - led vermelho: pino digital 8
 - led amarelo: pino digital 9
