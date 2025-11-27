@@ -32,7 +32,7 @@ A demonstração inclui um teste prático no elevador, simulando um ambiente de 
 
 - Conexão Wi-Fi 2.4 GHz
 
-- Elevador do INTELI para simulação
+- Elevador para simulação
 
 #### 2.2. Software e serviços
 
