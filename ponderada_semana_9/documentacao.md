@@ -55,7 +55,7 @@ Devido à mitigação do XSS, o Ataque 2 será substituído por um ataque de ris
 
 ---
 
-#### 🚨 **Novo Ataque 2: Controle Não Autorizado (Unauthenticated Command Execution - UCE)**
+#### **Ataque 2: Controle Não Autorizado (Unauthenticated Command Execution - UCE)**
 
 Este ataque explora a falta de controle de acesso para realizar ações maliciosas, um risco mais direto do que o XSS neste código.
 
