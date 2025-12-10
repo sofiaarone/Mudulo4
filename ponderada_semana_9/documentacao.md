@@ -76,11 +76,11 @@ Este ataque explora a falta de controle de acesso para realizar ações malicios
 | :--- | :--- | :--- |
 | **Probabilidade** | **Alta** | Extremamente fácil de executar. Requer apenas saber o IP e o caminho da URL (que são previsíveis). |
 | **Impacto** | **Médio** | Compromete a Integridade do sistema de controle, permitindo a manipulação não autorizada do estado físico do dispositivo. |
-| **Risco Resultante** | **Médio-Alto** |
+| **Risco Resultante** | **Médio-Alto** | A combinação de probabilidade alta com impacto moderado resulta em um risco significativo que exige mitigação imediata, como implementação de autenticação, uso de tokens ou restrição baseada em IP.
 
 ---
 
-### 4. Tabela Consolidada de Riscos (Atualizada)
+### 4. Tabela de Riscos
 
 A tabela de risco é atualizada e reordenada.
 
@@ -88,3 +88,9 @@ A tabela de risco é atualizada e reordenada.
 | :---: | :--- | :---: | :---: | :---: |
 | **1** | Negação de Serviço (DoS) por Flood de Requisições | Alta | Alto | **Alto** |
 | **2** | Controle Não Autorizado (UCE) / Falta de Autenticação | Alta | Médio | **Médio-Alto** |
+
+---
+
+**Conclusão da Análise de Riscos**
+
+A análise consolidada indica que o ataque de DoS representa o maior risco devido ao seu alto impacto na disponibilidade do sistema e pela facilidade com que pode ser executado contra servidores embarcados. Em seguida, o ataque de Controle Não Autorizado aparece com risco “Médio-Alto”, evidenciando vulnerabilidades sérias relacionadas à falta de autenticação e validação de comandos.
